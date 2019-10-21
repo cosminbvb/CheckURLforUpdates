@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\CheckForUpdates\CheckForUpdates\bin\Debug\CheckForUpdates.exe.config
+C:\Users\Asus\source\repos\CheckForUpdates\CheckForUpdates\bin\Debug\CheckForUpdates.exe
+C:\Users\Asus\source\repos\CheckForUpdates\CheckForUpdates\bin\Debug\CheckForUpdates.pdb
+C:\Users\Asus\source\repos\CheckForUpdates\CheckForUpdates\obj\Debug\CheckForUpdates.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CheckForUpdates\CheckForUpdates\obj\Debug\CheckForUpdates.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CheckForUpdates\CheckForUpdates\obj\Debug\CheckForUpdates.exe
+C:\Users\Asus\source\repos\CheckForUpdates\CheckForUpdates\obj\Debug\CheckForUpdates.pdb
